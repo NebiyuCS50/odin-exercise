@@ -20,7 +20,7 @@ ul {
   list-style-type: none;
   display: flex;
   align-items: center;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   gap: 8px;
   margin: 0px;
   padding: 0px;
